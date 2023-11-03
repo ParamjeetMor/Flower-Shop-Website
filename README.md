@@ -14,7 +14,7 @@ A flower shop website by using HTML and CSS.
 - Hover Effect
 - Styling Images
 - Adding Icons
-- Responsive website
+
 ## Created using
 
 - HTML
