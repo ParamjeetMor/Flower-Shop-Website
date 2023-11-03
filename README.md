@@ -1,5 +1,4 @@
 # Flower-Shop-Website
-# Flower Shop Website
 
 A flower shop website by using HTML and CSS.
 
